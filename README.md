@@ -1,1 +1,1 @@
-# A-Comparative-Machine-Learning-Approach-for-Heart-Disease-Prediction
+# Heart Disease Prediction System
